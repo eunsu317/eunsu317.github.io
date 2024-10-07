@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: College student
+role: 대학생
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Computer Science & Artificial Intelligence
+  - name: 컴퓨터인공지능학부
     url: https://csai.jbnu.ac.kr/csai/index.do
 
 # Social network links
