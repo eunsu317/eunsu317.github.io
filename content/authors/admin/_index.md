@@ -36,12 +36,12 @@ profiles:
   - icon: brands/github
     url: https://github.com/eunsu317
 
-관심분야:
+Interests:
   - 1
   - 2
   - 3
 
-학위:
+Education:
   - area: 컴퓨터인공지능학부
     institution: 전북대학교
     date_start: 2024-03-01
