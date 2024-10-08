@@ -1,3 +1,5 @@
+title: Contact
+date: 2022-10-24
 
 type: landing
 
@@ -14,6 +16,9 @@ sections:
         postcode: '54896'
         country: 대한민국
         country_code: KO
+        coordinates:
+        latitude: '35.84601324617979'
+        longitude: '127.13444961966684'
     
       # Automatically link email and phone or display as text?
       autolink: true
