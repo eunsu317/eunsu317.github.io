@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 최은수
+title: Choi Eun Su
 
 # Name pronunciation (optional)
 name_pronunciation: Choi Eun Su
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 대학생
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 전북대학교
+  - name: Jeonbuk National University
     url: https://www.jbnu.ac.kr/kor/
 
 # Social network links
@@ -42,8 +42,8 @@ Interests:
   - 3
 
 Education:
-  - area: 컴퓨터인공지능학부
-    institution: 전북대학교
+  - area: Department of Computer Science & Artificial Intelligence
+    institution: Jeonbuk National University
     date_start: 2024-03-01
     date_end: 2026-12-31
     summary: |
