@@ -129,4 +129,4 @@ awards:
 
 ## About Me
 
-2023년도에 전북대학교 행정학과에 입학한 후 전과하여 현재 컴퓨터인공지능학부에 재학 중인 학부생입니다.
+After enrolling in the Department of Public Administration at Jeonbuk National University in 2023, I transferred and am currently a student in the Department of Computer and Artificial Intelligence.
