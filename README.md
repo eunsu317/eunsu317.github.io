@@ -1,8 +1,8 @@
-<!-- # [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
+# [CES](https://eunsu317.github.io/)
 
-[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)
+<!-- [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/) -->
 
-The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
+<!-- The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
 
 [![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/templates/)
 [![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
@@ -32,7 +32,7 @@ We're an open source movement that depends on your support to stay online and th
 
 ### [❤️ Click here to become a Sponsor, unlocking awesome perks such as _exclusive academic templates and blocks_](https://hugoblox.com/sponsor/)
 
-<!--
+
 <p align="center"><a href="https://hugoblox.com/templates/" target="_blank" rel="noopener"><img src="https://hugoblox.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Hugo Blox Builder"></a></p>
 
 ## Demo image credits
@@ -41,7 +41,7 @@ We're an open source movement that depends on your support to stay online and th
 
 ## Latest news
 
-<!--START_SECTION:news
+START_SECTION:news
 
 - [Easily make an academic CV website to get more cites and grow your audience 🚀](https://hugoblox.com/blog/easily-make-academic-website/)
 - [What&#39;s new in v5.2?](https://hugoblox.com/blog/whats-new-in-v5.2/)
