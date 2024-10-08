@@ -3,7 +3,7 @@
 title: Choi Eun Su
 
 # Name pronunciation (optional)
-name_pronunciation: Choi Eun Su
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Eun su
