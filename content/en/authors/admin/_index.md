@@ -47,9 +47,9 @@ Education:
     date_end: 2027-02-21
     summary: |
       ~
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com'
 
 
 # Skills
