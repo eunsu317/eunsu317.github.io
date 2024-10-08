@@ -37,9 +37,8 @@ profiles:
     url: https://github.com/eunsu317
 
 Interests:
-  - 1
-  - 2
-  - 3
+  - 인공지능
+  - 
 
 Education:
   - area: 컴퓨터인공지능학부
