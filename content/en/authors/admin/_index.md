@@ -38,7 +38,7 @@ profiles:
 
 Interests:
   - Artificial Intelligence
-  - 
+  - Big Data
 
 Education:
   - area: Department of Computer Science & Artificial Intelligence
