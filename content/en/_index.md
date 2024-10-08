@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download pdf
-        url: uploads/instruction.pdf
+        url: en/uploads/instruction.pdf
     design:
       css_class: dark
       background:
