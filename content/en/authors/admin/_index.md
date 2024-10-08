@@ -43,8 +43,8 @@ Interests:
 Education:
   - area: Department of Computer Science & Artificial Intelligence
     institution: Jeonbuk National University
-    date_start: 2024-03-01
-    date_end: 2026-12-31
+    date_start: 2023-03-01
+    date_end: 2027-02-21
     summary: |
       ~
     button:

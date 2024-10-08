@@ -43,8 +43,8 @@ Interests:
 Education:
   - area: 컴퓨터인공지능학부
     institution: 전북대학교
-    date_start: 2024-03-01
-    date_end: 2026-12-31
+    date_start: 2023-03-01
+    date_end: 2027-02-21
     summary: |
       ~
     button:
