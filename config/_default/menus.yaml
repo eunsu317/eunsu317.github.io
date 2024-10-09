@@ -14,7 +14,7 @@ main:
     weight: 11
   - name: Experience
     parent: Bio
-    url: experience/
+    url: /experience
     weight: 12
   - name: Papers
     url: /#papers
