@@ -1,5 +1,8 @@
 # [CES](https://eunsu317.github.io/)
 
+**email**
+>> blue00920@gmail.com
+
 <!-- [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/) -->
 
 <!-- The Hugo **Academic CV Template** empowers you to easily create your job-winning online resumé, showcase your academic publications, and create online courses or knowledge bases to grow your audience.
