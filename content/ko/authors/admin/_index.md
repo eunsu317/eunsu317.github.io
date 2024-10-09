@@ -59,7 +59,7 @@ awards:
   - title: 전과 합격
     url: https://www.jbnu.ac.kr/kor/?menuID=139&sfv=subject&subject=%EC%A0%84%EA%B3%BC&mode=view&no=55420
     date: '2024-02-01'
-    awarder: ㅡㅡ
+    awarder: https://www.jbnu.ac.kr/kor/?menuID=139&sfv=subject&subject=%EC%A0%84%EA%B3%BC&mode=view&no=55420
     icon:
     summary: |
      제 유일한 경력입니다.^^ 1학년 1학기 때 "인공지능의 이해"라는 교양 과목을 듣고 인공지능에 대해 더 알아보고 싶다는 생각이 들어서 2학기부터 본격적으로 컴퓨터인공지능학부 전공을 수강하기 시작했습니다. 겨울방학에 면접을 보고 최종 합격했습니다.
