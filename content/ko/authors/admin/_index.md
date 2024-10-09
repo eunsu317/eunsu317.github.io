@@ -107,13 +107,19 @@ languages:
   - name: Portuguese
     percent: 25
 
-Career:
-  -title: 🎉 Easily create your own simple yet highly customizable blog
-  -summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-  -date: 2023-10-27
-
+# Awards.
+#   Add/remove as many awards below as you like.
+#   Only `title`, `awarder`, and `date` are required.
+#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+awards:
+  - title: Neural Networks and Deep Learning
+    url: https://www.coursera.org/learn/neural-networks-deep-learning
+    date: '2023-11-25'
+    awarder: Coursera
+    icon: coursera
+    summary: |
+      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 ---
-
 ## About Me
 
 2023년도에 전북대학교 행정학과에 입학한 후 전과하여 현재 컴퓨터인공지능학부에 재학 중인 학부생입니다. 아직 정해진 명확한 진로는 없지만 인공지능에 대해서 좀 더 깊이있게 공부해보고 싶습니다.
