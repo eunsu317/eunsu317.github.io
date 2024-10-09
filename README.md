@@ -1,7 +1,10 @@
 # [CES](https://eunsu317.github.io/)
 
+**소개**
+전북대학교 컴퓨터인공지능학부 최은수의 웹사이트입니다.
+
 **email**
->> blue00920@gmail.com
+blue00920@gmail.com
 
 <!-- [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/) -->
 
