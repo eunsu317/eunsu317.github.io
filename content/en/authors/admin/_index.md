@@ -61,6 +61,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 80
+        icon: code-bracket
       # - name: Data Science
       #   description: ''
       #   percent: 100

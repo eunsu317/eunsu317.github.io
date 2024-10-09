@@ -61,6 +61,10 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
+      - name: C++
+        description: ''
+        percent: 80
+        icon: code-bracket
       # - name:
       #   description: ''
       #   percent: 100
@@ -73,7 +77,7 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 달리기
+      - name: 러닝
         description: ''
         percent: 60
         icon: person-simple-walk
