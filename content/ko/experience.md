@@ -18,9 +18,9 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-awards
+  - block: resume-Experience
     content:
-      title: Awards
+      title: Experience
       username: admin
   - block: resume-skills
     content:
